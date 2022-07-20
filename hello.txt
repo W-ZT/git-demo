@@ -12,5 +12,10 @@ hello
 hello
 hello
 hello
+<<<<<<< HEAD
 1111111111111kkkkkkkkkkkkkk
+=======
+1111111111111
+
+>>>>>>> hot-fix
 
